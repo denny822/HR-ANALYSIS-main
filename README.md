@@ -1,2 +1,2 @@
-# HR-ANALYSIS
-This Power BI dashboard provides a comprehensive overview of key HR metrics, including employee demographics, department-wise distribution, and attrition trends. It enables quick insights into workforce composition and performance. The visuals support data-driven HR decision-making and strategic planning.
+# HR Dashboard Description:
+Developed an interactive HR Analysis Dashboard using Power BI to analyze workforce data and gain insights into employee attrition, salary distribution, age groups, job roles, gender diversity, and education fields. Used DAX functions, slicers, and various visualizations such as pie charts, bar charts, and line graphs to identify trends and support HR decision-making. The dashboard helps organizations improve employee retention, workforce planning, and overall HR strategies through data-driven insights.
